@@ -48,7 +48,7 @@ npm install
 npm start
 ```
 
-4. Scan the QR code with Expo Go app to run on your device
+4. Scan the QR code with Expo Go app to run on your device(choose the version v54.0.0)
 
 ### Available Scripts
 
